@@ -65,5 +65,5 @@ This allows the frontend to send requests to the backend without CORS issues.
 - ## It is for **educational purposes only**.
 
 ```
-This project helps to understan how to use llibgen Api to fetch books
+This project helps to understand how to use the Libgen Api to fetch books
 ```
